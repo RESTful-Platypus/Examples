@@ -1,0 +1,5 @@
+{
+    "require": {
+        "restful-platypus/platypus": "@dev"
+    }
+}
